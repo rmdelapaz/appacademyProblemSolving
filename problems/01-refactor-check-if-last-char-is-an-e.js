@@ -1,6 +1,6 @@
 /*
 Refactor checkIfLastCharIsAnE
-
+hello class
 Refactor the function `checkIfLastCharIsAnE` to have only one line of code in
 the function code block instead of three lines of code.
 */
